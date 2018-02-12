@@ -45,6 +45,10 @@ Developer @GA in NYC
 /* BASE STYLES
 /*******************************************/
 
+header {
+  background-color: #21dc98
+}
+
 body {
   color: #f0efef;
   font-size: 26px;
